@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dialog>
+	<conversation id = "1">
+		<line id = "1"> Dialog 1 line 1 </line>
+		<line id = "2"> Dialog 1 line 2 </line>
+		<line id = "3"> Dialog 1 line 3 </line>
+		<line id = "4"> Dialog 1 line 4 </line>
+		<line id = "5"> Dialog 1 line 5 </line>
+		<line id = "6"> Dialog 1 line 6 </line>
+		<line id = "7"> Dialog 1 line 7 </line>
+		<line id = "8"> Dialog 1 line 8 </line>
+	</conversation>
+	<conversation id = "2">
+		<line id = "1">Yeah, I should probably talk to him first.</line>
+		<line id = "2">I think I'll take the armor. (Simple Armor: (Armour + 3))</line>
+		<line id = "3">I'll take the Potion of Strength. (Strength Potion: (Physical Strength + 3))</line>
+		<line id = "4">How about this herbal potion you have in the back there? (Herbal Potion: (Spiritual Strength + 2))</line>
+		<line id = "5">Thanks Astero. I must get going.</line>
+		<line id = "6">Bye</line>
+		<line id = "7">Let me ask something else.</line>
+		<line id = "8">Any advice for me?</line>
+		<line id = "9">Can I see your wares?</line>
+		<line id = "10">Thats all for now, thanks</line>
+		<line id = "11">(Buy: Basic Shield: (Physical Power + 1, Armour + 2))</line>
+		<line id = "12">(Buy: Health Potion: (Health + 15))</line>
+	</conversation>
+	<conversation id = "3">
+		<line id = "1">Can you tell me anything more about the situation?</line>
+		<line id = "2">I'm ready lets get to it!</line>
+		<line id = "3">Thanks for advice.</line>
+		<line id = "4">Thats it for now</line>
+		<line id = "5">Bye</line>
+	</conversation>
+	<conversation id = "4">
+		<line id = "1">Yeah I'll should talk to him</line>
+		<line id = "2">Can you give me some advice for my trip?</line>
+		<line id = "3">Tell me about combat</line>
+		<line id = "4">Tell me about becoming stronger</line>
+		<line id = "5">Give me some general tips</line>
+		<line id = "6">Can you give me some other advice?</line>
+		<line id = "7">Tell me more</line>
+		<line id = "8">Thanks, I must get going.</line>
+		<line id = "9">Bye</line>
+	</conversation>
+	<conversation id = "5">
+		<line id = "1">I should probably talk to Kharim to get the key.</line>
+		<line id = "2">Pass through the gate.</line>
+		<line id = "3">Stay in the area.</line>
+	</conversation>
+</dialog>
